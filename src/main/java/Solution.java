@@ -67,6 +67,6 @@ public class Solution {
     }
 
     public String info() {
-        return "This calculator is a model " + calcModel  + " with id " + idNumber;
+        return "This calculator is a model " + calcModel + " with id " + idNumber;
     }
 }
